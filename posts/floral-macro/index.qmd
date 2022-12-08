@@ -1,0 +1,32 @@
+---
+title: "Floral Macro"
+author: "PKSL"
+date: "2022-12-09"
+categories: [macro]
+filters:
+   - lightbox
+lightbox: auto
+---
+
+
+--------
+
+Camera: Fujifilm X-T2
+
+::: {.column-body-outset}
+
+::: {layout="[[45,-1,45], [45,-1,45], [45, -1, 45]]"}
+
+![](images/PKS_20190419_FUJIFILM-X-T2_0014_JPEG sRGB 2048.jpg){group="floral-macro"}
+
+![](images/PKS_20191108_X-T2_0523-FOCUS_JPEG sRGB 2048 1.jpg){group="floral-macro"}
+
+![](images/PKS_20191105_X-T2_0268_JPEG sRGB 2048 1.jpg){group="floral-macro"}
+
+![](images/PKS_20191105_X-T2_0268_TIFF Adobe (8bit)_v2.jpg){group="floral-macro"}
+
+![](images/IMG_3193.jpg){group="floral-macro"}
+
+:::
+
+:::

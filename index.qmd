@@ -1,0 +1,23 @@
+---
+title: ""
+editor: source
+execute: 
+  echo: false
+  warning: false
+filters:
+   - lightbox
+lightbox: auto
+---
+
+:::{.column-body}
+
+![](include/img/PKS_20200902_GFX 50R_0345_JPEG sRGB 2048 1.jpg){group="home"}
+
+![](include/img/PKS_20191010_RICOH GR III_0020.jpg){group="home"}
+
+![](include/img/_DSF7386.jpg){group="home"}
+
+:::
+
+
+

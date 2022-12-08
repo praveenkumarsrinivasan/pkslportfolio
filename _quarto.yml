@@ -1,0 +1,25 @@
+project:
+  type: website
+  
+website:
+  search: false
+  navbar:
+    title: "PKSL"
+    background: primary
+    left:
+      - href: blog.qmd
+        text: Blog
+      - href: about.qmd
+        text: About
+
+  page-footer: 
+    left: "Made with ❤️ in Sydney | Auckland"
+    right: "PKSL"
+            
+format:
+  html:
+    theme: [cosmo, include/css/theme-light.scss]
+    css: include/css/style.css
+
+
+

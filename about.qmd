@@ -1,0 +1,20 @@
+---
+title: "PKSL"
+image: profile.jpg
+about:
+  template: trestles
+  links:
+    - icon: instagram
+      text: Instagram
+      href: https://instagram.com/pksl.photography
+---
+
+Hi, I am a freelance photographer based in Sydney | Auckland. 
+
+Contact me for queries on commercial, editorial commissions and limited edition prints.
+
+- Email: praveen.sxi@gmail.com
+- Phone: 
+  - Sydney: +61 452267020
+  - Auckland: +64 221298580
+

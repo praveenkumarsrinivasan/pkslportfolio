@@ -1,0 +1,31 @@
+---
+title: "Macro Adventures"
+author: "PKSL"
+date: "2022-12-08"
+categories: [macro]
+image: "images/PKS_20191108_X-T2_0419_JPEG sRGB 2048.jpg"
+filters:
+   - lightbox
+lightbox: auto
+---
+
+-----
+
+Camera: Fujifilm X-T2
+
+:::{.column-body-outset layout-ncol=1}
+
+![](images/PKS_20191108_X-T2_0419_JPEG sRGB 2048.jpg){group="macro-adventure"}
+
+![](images/PKS_20191108_X-T2_0407_JPEG sRGB 2048.jpg){group="macro-adventure"}
+
+![](images/PKS_20191108_X-T2_0423_JPEG sRGB 2048.jpg){group="macro-adventure"}
+
+![](images/PKS_20191108_X-T2_0429_JPEG sRGB 2048.jpg){group="macro-adventure"}
+
+![](images/PKS_20191108_X-T2_0436_JPEG sRGB 2048.jpg){group="macro-adventure"}
+
+![](images/PKS_20191108_X-T2_0440_JPEG sRGB 2048.jpg){group="macro-adventure"}
+
+:::
+

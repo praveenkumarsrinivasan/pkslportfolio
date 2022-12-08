@@ -1,0 +1,15 @@
+@import url('https://fonts.googleapis.com/css2?family=Alexandria:wght@700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Alexandria:wght@700&family=Nunito+Sans:wght@200&display=swap');
+
+html, body {
+  -webkit-font-smoothing: antialiased;
+  
+}
+
+.navbar-brand, .nav-footer-right {
+  font-family: 'Alexandria', sans-serif;
+}
+
+.navbar-title {
+  color: #411361;
+}
